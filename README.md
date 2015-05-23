@@ -1,7 +1,7 @@
 # Google-homepage project
 
->Reinventing Google (a html and css project)
+<p>Reinventing Google (a html and css project)</p>
 
 <blockquote>
-		A project for [theodinproject link][http://www.theodinproject.com/web-development-101]
+		A project for <a href="http://www.theodinproject.com/web-development-101">theodinproject</a>.
 </blockquote>
